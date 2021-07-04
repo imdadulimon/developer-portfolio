@@ -55,6 +55,26 @@ h1{
         border-image-slice: 1;
         
     }
+    div#full-stack-experience {
+        border: 5px 2px 2px 2px solid;
+        border-left: 20px solid #f97b62;
+    }
+    h1.orange-color {
+        text-align: center;
+    }
+    div#web-dev-experiences {
+        padding: 20px;
+    }
+    .experience-area {
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+    }
+.copyright h1{
+    text-align: center;
+    font-size: 10px;
+}    
+        
         
     
 
